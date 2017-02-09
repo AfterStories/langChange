@@ -1,0 +1,16 @@
+<content>
+	<text id="home">
+		<zh>首页</zh>
+		<en>Home</en>
+	</text>
+	<text id="google">
+		<zh>谷歌</zh>
+		<en>google</en>
+	</text>
+	<text id="baidu">
+		<zh>百度</zh>
+		<en>BaiDu</en>
+	</text>
+</content>
+	
+
